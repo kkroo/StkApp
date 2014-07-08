@@ -16,7 +16,7 @@
 
 <resources>
     <!-- Default Application label used on home screen with an icon -->
-    <string name="app_name">SIM Toolkit</string>
+    <string name="app_name">SIM Toolkit Test</string>
     <!-- Menu button option for ending current SIM session -->
     <string name="menu_end_session">End session</string>
     <!-- Menu button option for requesting additional help information -->
